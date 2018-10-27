@@ -46,5 +46,6 @@ public class Main {
         }
         graph.setHeight(height);
         graph.setNodeNeighbours();
+        graph.initSearch();
     }
 }
